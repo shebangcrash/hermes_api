@@ -17,7 +17,7 @@ supplied, limiting the messages returned to those users.
 The Hermes API can be started by running the following command in the root
 level of the project:
 ```
-npm install
+npm install .
 node messenger.js
 ```
 If running locally, the host is "127.0.0.1" or "localhost"
