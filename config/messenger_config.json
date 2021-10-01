@@ -1,0 +1,8 @@
+{
+	"port": 3000,
+	"persistence_mode": "local",
+	"maxMsgs": 100,
+	"maxDays": 30,
+	"maxMsgLength": 120,
+	"msgFile": "messages/messages.json"
+}
