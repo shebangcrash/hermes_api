@@ -136,5 +136,5 @@ default host/port is "127.0.0.1:3000"
 
 ---
 ## Future Improvements
--Database backend support
--Additional endpoint for future messages
+- Database backend support
+- Additional endpoint for future messages
